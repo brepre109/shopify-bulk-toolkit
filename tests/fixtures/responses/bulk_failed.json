@@ -1,0 +1,24 @@
+{
+  "data": {
+    "bulkOperation": {
+      "id": "gid://shopify/BulkOperation/9001",
+      "status": "FAILED",
+      "errorCode": "TIMEOUT",
+      "objectCount": "5000",
+      "fileSize": null,
+      "url": null,
+      "partialDataUrl": "https://storage.example.com/bulk/9001-partial.jsonl"
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 1,
+      "actualQueryCost": 1,
+      "throttleStatus": {
+        "maximumAvailable": 2000.0,
+        "currentlyAvailable": 1999,
+        "restoreRate": 100.0
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "bulkOperationRunQuery": {
+      "bulkOperation": null,
+      "userErrors": [
+        {
+          "field": [
+            "query"
+          ],
+          "message": "Bulk queries cannot contain more than 5 connections."
+        }
+      ]
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 10,
+      "actualQueryCost": 10,
+      "throttleStatus": {
+        "maximumAvailable": 2000.0,
+        "currentlyAvailable": 1990,
+        "restoreRate": 100.0
+      }
+    }
+  }
+}

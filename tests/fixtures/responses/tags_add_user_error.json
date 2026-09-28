@@ -1,0 +1,26 @@
+{
+  "data": {
+    "tagsAdd": {
+      "node": null,
+      "userErrors": [
+        {
+          "field": [
+            "id"
+          ],
+          "message": "Product does not exist"
+        }
+      ]
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 10,
+      "actualQueryCost": 10,
+      "throttleStatus": {
+        "maximumAvailable": 2000.0,
+        "currentlyAvailable": 1990,
+        "restoreRate": 100.0
+      }
+    }
+  }
+}

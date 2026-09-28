@@ -1,0 +1,24 @@
+{
+  "data": {
+    "bulkOperation": {
+      "id": "gid://shopify/BulkOperation/9001",
+      "status": "COMPLETED",
+      "errorCode": null,
+      "objectCount": "0",
+      "fileSize": null,
+      "url": null,
+      "partialDataUrl": null
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 1,
+      "actualQueryCost": 1,
+      "throttleStatus": {
+        "maximumAvailable": 2000.0,
+        "currentlyAvailable": 1999,
+        "restoreRate": 100.0
+      }
+    }
+  }
+}

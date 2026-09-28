@@ -1,0 +1,18 @@
+{
+  "errors": [
+    {
+      "message": "Field 'nope' doesn't exist on type 'Shop'",
+      "locations": [
+        {
+          "line": 1,
+          "column": 8
+        }
+      ],
+      "extensions": {
+        "code": "undefinedField",
+        "typeName": "Shop",
+        "fieldName": "nope"
+      }
+    }
+  ]
+}
