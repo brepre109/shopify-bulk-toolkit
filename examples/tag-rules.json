@@ -1,0 +1,5 @@
+[
+  {"match": {"productType": "Ribbon"}, "add": ["ribbon-shop"]},
+  {"match": {"title": "\\b(gold|silver|glitter)\\b"}, "add": ["holiday-sparkle"]},
+  {"match": {"tag": "clearance", "status": "active"}, "remove": ["new-arrival"]}
+]

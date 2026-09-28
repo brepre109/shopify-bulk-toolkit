@@ -1,0 +1,5 @@
+[
+  {"match": {"productType": "Ribbon"}, "category": "ae-2-1-2-14"},
+  {"match": {"title": "\\bgift wrap\\b"}, "category": "ae-2-1-2-8"},
+  {"match": {"vendor": "Northwind Paper"}, "category": "ae-2-1-2"}
+]

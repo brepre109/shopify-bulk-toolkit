@@ -1,0 +1,4 @@
+product,namespace,key,type,value
+washi-tape-set-pastel,custom,width_mm,number_integer,15
+satin-ribbon-blush,custom,care,single_line_text_field,Cool iron
+velvet-ribbon-navy,tiered_pricing,tiers,json,"{""retail"": [{""minQuantity"": 10, ""percentage"": 10}]}"
